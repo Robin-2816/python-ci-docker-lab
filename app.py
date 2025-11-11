@@ -1,5 +1,5 @@
-def add(a, b):
-    return a + b
+def add(a, C):
+    return a + C
 
 if __name__ == "__main__":
     print("Hello from Python CI Lab!")
